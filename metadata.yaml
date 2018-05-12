@@ -1,0 +1,47 @@
+_repo: Contamination-Crew_31932
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    - Alexander, Ed
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Nourse, Alan E. (Alan Edward)
+    - Edwards, Al
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: Orders were orders! The creature had to be killed. But just how does
+  one destroy the indestructible?
+gutenberg_issued: '2010-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Contamination Crew
+url: http://www.gutenberg.org/ebooks/31932
